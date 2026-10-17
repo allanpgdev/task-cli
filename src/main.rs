@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("it's me task cli!");
 }
